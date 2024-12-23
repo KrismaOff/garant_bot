@@ -1,0 +1,10 @@
+.notification {
+    position: absolute;
+    bottom: 0px;
+    right: 50px;
+    width: 200px;
+    padding: 20px;
+    transition: .5s;
+    border-radius: 25px 25px 0;
+    z-index: 1;
+}
